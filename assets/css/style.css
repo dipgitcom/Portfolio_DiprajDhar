@@ -829,6 +829,12 @@ main {
   line-height: 1.6;
 }
 
+.timeline-text-strong {
+  color: #f1c40f !important; /* Bright gold for visibility */
+  font-weight: bold;
+}
+
+
 
 /**
  * skills 
