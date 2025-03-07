@@ -24,7 +24,7 @@ This is a **personal portfolio website** showcasing projects, skills, and experi
 
 ## 📸 Screenshots
 ### 🔹 Porfolio UI
-![Portfolio Demo](POrtfolio.mp4)
+![Portfolio Demo](https://github.com/dipgitcom/Portfolio_DiprajDhar/blob/main/Portfolio.mp4)
 
 
 
