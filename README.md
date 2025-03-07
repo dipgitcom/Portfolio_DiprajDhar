@@ -22,7 +22,7 @@ This is a **personal portfolio website** showcasing projects, skills, and experi
  ├── 📄 README.md        # Project documentation
 ```
 
-## 📸 Screenshots
+## 📸 Video
 ### 🔹 Porfolio UI
 ![Portfolio Demo](Portfolio.mp4)
 
