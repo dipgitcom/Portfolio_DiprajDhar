@@ -19,17 +19,13 @@ This is a **personal portfolio website** showcasing projects, skills, and experi
  ├── 📁 css              # Stylesheets (main.css, custom.css)
  ├── 📁 js               # JavaScript files
  ├── 📄 index.html       # Homepage
- ├── 📄 about.html       # About me page
- ├── 📄 projects.html    # Projects showcase
- ├── 📄 contact.html     # Contact form
  ├── 📄 README.md        # Project documentation
 ```
 
 ## 📸 Screenshots
-### 🔹 Dark Mode UI
+### 🔹 Porfolio UI
 ![Dark Mode](https://your-image-link.com/dark-mode.png)
-### 🔹 Light Mode UI
-![Light Mode](https://your-image-link.com/light-mode.png)
+
 
 ## 🚀 Installation & Setup
 1. Clone the repository:
