@@ -24,7 +24,8 @@ This is a **personal portfolio website** showcasing projects, skills, and experi
 
 ## 📸 Screenshots
 ### 🔹 Porfolio UI
-![Dark Mode](https://your-image-link.com/dark-mode.png)
+![Portfolio Demo](POrtfolio.mp4)
+
 
 
 ## 🚀 Installation & Setup
