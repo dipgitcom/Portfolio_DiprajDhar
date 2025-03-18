@@ -46,9 +46,9 @@ This is a **personal portfolio website** showcasing projects, skills, and experi
 
 ## 📬 Contact
 For any queries or collaborations, feel free to reach out:
-- 📧 Email: your.email@example.com
+- 📧 Email: diprajdhar08@gmail.com
 - 🔗 Portfolio: [Your Website](https://your-portfolio-link.com)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
+- 🐙 GitHub: dipgitcom
 
 ## 📝 License
 This project is **open-source** and available under the [MIT License](LICENSE).
